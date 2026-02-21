@@ -1,0 +1,5 @@
+pandas
+matplotlib
+pyxlsb
+pywin32
+openpyxl
